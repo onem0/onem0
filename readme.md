@@ -5,4 +5,6 @@ This is how long I've Coded so far:
 
 Do you want to use my Cloud Storage Solution? Do it [here](https://drive.onemo.dev/)!
 
+[Here](https://wakatime.com/@onemo) you can visit my Wakatime profile.
+
 If you want to contact me, send me an email to support@onemo.dev
